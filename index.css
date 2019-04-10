@@ -1,0 +1,58 @@
+.div1{
+  font-family:Helvetica;
+  font-size: 12px;
+  border: 1px solid #FF0000;
+  padding:25px;
+  width: 300px;
+  margin:50px; 
+}
+
+.div1 p{
+  color: #999;
+}
+
+#roman {
+  font-family:"Times New Roman";
+ }
+
+.div2{
+  border: 3px solid #0099FF;
+  padding: 10px;
+  margin:25px;
+  width: 400px;
+}
+
+.div2 h1 {
+  color: #60C;
+  font-family: "Times New Roman";
+}
+
+.div2 h2{
+  color: #F60;
+  font-family: Helvetica;
+}
+
+.div2 p{
+  font-family: Helvetica;
+  font-size: 14px;
+}
+
+.div3{
+  padding: 25px 5px 50px 30px;
+  margin: 75px;
+  width: 250px;
+  background-color: #F3F;
+}
+
+.div3 h1{
+  color: #009;
+}
+
+.div3 p{
+  color: white;
+  font-size: 16px;
+}
+
+div{
+  display: inline-block;
+}
